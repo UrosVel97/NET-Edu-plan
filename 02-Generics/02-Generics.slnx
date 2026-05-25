@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="01-GenericsStatic/01-GenericsStatic.csproj" />
+  <Project Path="02-GenericsConstraints/02-GenericsConstraints.csproj" />
+</Solution>
